@@ -1,0 +1,7 @@
+Questions
+Will the child component update automatically?
+Why or why not?
+How would you make it update?
+What does Angular compare internally when using OnPush?
+
+Please answer as if you're in the interview. After your answer, I'll score it and ask the next
